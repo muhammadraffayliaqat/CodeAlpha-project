@@ -1,0 +1,3 @@
+[submodule "task3_event_website"]
+	path = task3_event_website
+	url = https://github.com/username/task3_event_website.git
